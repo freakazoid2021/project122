@@ -1,3 +1,7 @@
+def print_message():
+    print("this is 'hello app'")
+
+
 name = "Everyone"
 
 
