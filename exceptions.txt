@@ -1,0 +1,14 @@
+<class 'KeyError'> / 'Belarus' / 1644256467.8546388 
+<class 'KeyError'> / 'usa' / 1644256476.312106 
+<class 'KeyError'> / 'Estonia' / 1644256480.5267227 
+<class 'KeyError'> / 'Latvia' / 1644256485.318732 
+<class 'KeyError'> / 'Russia' / 1644256491.981569 
+KeyboardInterrupt / 1644256499.1448994 
+<class 'KeyError'> / 'ad' / Thu Feb 10 19:23:56 2022 
+<class 'KeyError'> / 'asd' / Thu Feb 10 19:23:57 2022 
+<class 'KeyError'> / 'sdg' / Thu Feb 10 19:23:58 2022 
+<class 'EOFError'> / EOF when reading a line / Thu Feb 10 19:24:01 2022 
+<class 'EOFError'> / EOF when reading a line / Thu Feb 10 19:24:01 2022 
+<class 'EOFError'> / EOF when reading a line / Thu Feb 10 19:24:01 2022
+
+
