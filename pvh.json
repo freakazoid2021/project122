@@ -1,0 +1,26 @@
+{
+    "1": {
+        "invisible %": 50.0,
+        "color": "gray",
+        "sizeXsize": [
+            "100",
+            "100"
+        ]
+    },
+    "2": {
+        "invisible %": 100.0,
+        "color": "white",
+        "sizeXsize": [
+            "400",
+            "150"
+        ]
+    },
+    "3": {
+        "invisible %": 99.0,
+        "color": "yellow",
+        "sizeXsize": [
+            "120",
+            "120"
+        ]
+    }
+}
